@@ -1,4 +1,4 @@
-# Java & AI - NTT Data Bootcamp 🚀  
+# Java & AI - NTT Data Bootcamp
 
 Repository dedicated to the **NTT DATA Java Bootcamp** (by DIO), covering:  
 - **Java Fundamentals** + **OOP**  
