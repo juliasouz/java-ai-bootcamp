@@ -1,7 +1,7 @@
 /* 
     Write a code for a bank account that can perform the following operations:
         Check balance
-        Check overdraft (cheque especial)
+        Check overdraft
         Deposit money
         Withdraw money
         Pay a bill
